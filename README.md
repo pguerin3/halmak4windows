@@ -24,10 +24,11 @@ This repository is the Windows equivalent of the original Halmak Apple Mac versi
 * Now setup the ability to choose and switch between QWERTY and your new layout. 
 * Go to Control Panel > All Control Panel Items > Language > Advanced settings. 
 * In the Switching Input Methods category, enable Use the desktop language bar when available.
+* Choose Options
 
 ![](images/language.jpg)
 
-* Choose the Docked In The Daskbar option.
+* Choose the Docked In The Taskbar option.
 
 ![](images/language.options.jpg)
 
