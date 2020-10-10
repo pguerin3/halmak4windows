@@ -11,6 +11,9 @@
 This repository is the Windows equivalent of the original Halmak Apple Mac version:
 [halmak](https://github.com/MadRabbit/halmak)
 
+This Halmak setup executable was created using the Microsoft Keyboard Layout Creator (MSKLC) Version 1.4.
+
+
 ## Installation
 
 * Git clone this repository.
