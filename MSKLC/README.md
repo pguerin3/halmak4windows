@@ -9,6 +9,7 @@ The Microsoft Keyboard Layout Creator extends the international functionality of
 * Base a new layout on an existing one
 * Modify an existing keyboard layout (.KLC) file and build a new layout from it
 * Package the resulting keyboard layouts for subsequent deployment and installation.
+
 This minor update to MSKLC fixes several customer-reported bugs in diverse areas such as support for the Tibetan Tsek character on the spacebar and support for ligatures in the AltGr shift state.
 
 ## Download
