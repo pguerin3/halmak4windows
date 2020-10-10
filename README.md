@@ -61,4 +61,5 @@ Copyright (C) 2016 Nikolay Nemshilov
 
 ## Microsoft Keyboard Layout Creator (MSKLC) Version 1.4
 This Halmak setup executable was created using the Microsoft Keyboard Layout Creator (MSKLC) Version 1.4.
+
 [MSKLC - download](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
