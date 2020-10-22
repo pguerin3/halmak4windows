@@ -1,14 +1,8 @@
 # Halmak Keyboard Layout for Windows
 
-- This is an AI designed keyboard layout that was built within the
-[keyboard-gentics](https://github.com/MadRabbit/keyboard-genetics) project.
+![](images/halmak.jpg)
 
-- More details and a documented process can be found in
-[this blog](http://nikolay.rocks/categories/optimal+keyboard)
-
-![](images/Halmak.jpg)
-
-![](images/Halmak-shift.jpg)
+![](images/halmak-shift.jpg)
 
 This repository is the Windows equivalent of the original Halmak Apple Mac version:
 [halmak](https://github.com/MadRabbit/halmak)
