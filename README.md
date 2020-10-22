@@ -9,8 +9,14 @@ This repository is the Windows equivalent of the original Halmak Apple Mac versi
 
 ## Installation
 
+This repository contains 2 Halmak layouts:
+- Halmak, which has the Halmak control character layout.
+- HalmakQ, which retains the Qwerty control character layout.
+
 * Git clone this repository.
-* Execute setup.exe
+* Execute either or both the following:
+ - halmak/setup.exe
+ - halmakQ/setup.exe
 
 ![](images/installation.jpg)
 
