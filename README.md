@@ -1,6 +1,6 @@
 # Halmak Keyboard Layout for Windows
 
-![](images/halmak.jpg)
+![](images/Halmak.jpg)
 
 ![](images/halmak-shift.jpg)
 
