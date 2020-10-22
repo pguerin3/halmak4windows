@@ -8,6 +8,8 @@
 
 ![](images/Halmak.jpg)
 
+![](images/Halmak-shift.jpg)
+
 This repository is the Windows equivalent of the original Halmak Apple Mac version:
 [halmak](https://github.com/MadRabbit/halmak)
 
