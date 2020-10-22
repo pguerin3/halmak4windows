@@ -13,8 +13,15 @@ This repository contains 2 Halmak layouts:
 - Halmak, which has the Halmak control character layout.
 - HalmakQ, which retains the Qwerty control character layout.
 
-* Git clone this repository.
-* Execute either or both the following:
+Halmak maps to the Halmak layout for both normal and control characters.
+This means undo (cntrl-z), cut (cntrl-x), copy (cntrl-c), and paste (cntrl-v) and the other control characters are in their Halmak positions on the keyboard.
+
+HalmakQ maps to the Halmak layout for normal characters, and the Qwerty layout for control characters.
+This means undo (cntrl-z), cut (cntrl-x), copy (cntrl-c), and paste (cntrl-v) and the other control characters are in their original Qwerty positions on the keyboard.
+
+Git clone this repository.
+
+Execute either or both of the following to install Halmak:
  - halmak/setup.exe
  - halmakQ/setup.exe
 
