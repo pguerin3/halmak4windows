@@ -7,6 +7,14 @@
 This repository is the Windows equivalent of the original Halmak Apple Mac version:
 [halmak](https://github.com/MadRabbit/halmak)
 
+## Download
+
+Click on the green 'code' button near the top of the page.
+
+Then click 'Download ZIP'.
+
+![](images/download.jpg)
+
 ## Installation
 
 This repository contains 2 Halmak layouts:
@@ -18,8 +26,6 @@ This means undo (cntrl-z), cut (cntrl-x), copy (cntrl-c), and paste (cntrl-v) an
 
 HalmakX maps to the Halmak layout for both normal and control characters.
 This means undo (cntrl-z), cut (cntrl-x), copy (cntrl-c), and paste (cntrl-v) and the other control characters are in their new Halmak positions on the keyboard.
-
-Git clone this repository.
 
 Execute either or both of the following to install Halmak:
  - halmak/setup.exe
