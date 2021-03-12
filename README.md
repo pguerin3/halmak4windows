@@ -1,11 +1,37 @@
-# Halmak Keyboard Layout for Windows
 
-![](images/Halmak.jpg)
-
-![](images/halmak-shift.jpg)
+# The Halmak Keyboard Layouts for Windows
 
 This repository is the Windows equivalent of the original Halmak Apple Mac version:
 [halmak](https://github.com/MadRabbit/halmak)
+
+This repository contains 4 Halmak layouts in 2 groups.
+The groups are:
+ * Halmak (featuring HalmakP and HalmakLG).
+ * HalmaQ (featuring HalmaQP and HalmaQLG).
+
+Note - HalmakQP and HalmaQLG map to the Qwerty layout for control characters.
+This means undo (cntrl-z), cut (cntrl-x), copy (cntrl-c), and paste (cntrl-v) and the other control characters are in their original Qwerty positions on the keyboard.
+
+Regardless of the group, the lettering of the Halmak layout is the same and is as follows:
+![](images/HalmakP.jpg)
+
+### HalmakP and HalmaQP
+
+This group has the Halmak layout with the parenthesis at the centre:
+- HalmakP: features the parenthesis at the centre, and the Halmak cntrl keys.
+- HalmaQP: features the parenthesis at the centre, and the Qwerty cntrl keys.
+
+This means with the shift key modifier the layout is as follows:
+![](images/halmakPShft.jpg)
+
+### HalmakLG and HalmaQLG
+
+This group has the Halmak layout with the less/greater signs at the centre:
+- HalmakLG: features the less/greater at the centre, and the Halmak cntrl keys.
+- HalmaQLG: features the less/greater at the centre, and the Qwerty cntrl keys.
+
+This means with the shift key modifier the layout is as follows:
+![](images/halmakLGShft.jpg)
 
 ## Download
 
@@ -17,22 +43,14 @@ Then click 'Download ZIP'.
 
 ## Installation
 
-This repository contains 2 Halmak layouts:
-- Halmak: has the base Halmak layout, but retains the Qwerty cntrl key layout.
-- HalmakX: has the Halmak layout for the base and cntrl keys.
-
-Halmak maps to the Halmak layout for normal characters, and the Qwerty layout for control characters.
-This means undo (cntrl-z), cut (cntrl-x), copy (cntrl-c), and paste (cntrl-v) and the other control characters are in their original Qwerty positions on the keyboard.
-
-HalmakX maps to the Halmak layout for both normal and control characters.
-This means undo (cntrl-z), cut (cntrl-x), copy (cntrl-c), and paste (cntrl-v) and the other control characters are in their new Halmak positions on the keyboard.
-
-Execute either or both of the following to install Halmak:
- - halmak/setup.exe
- - halmakX/setup.exe
+Execute the setup for the layouts that interest you:
+ - halmakP/setup.exe
+ - halmakLG/setup.exe
+ - halmaQP/setup.exe
+ - halmaQLG/setup.exe
+Install then try all the layouts to determined which is right for you.
 
 ![](images/installation.jpg)
-
 
 ## Switching between layouts
 
@@ -61,20 +79,18 @@ Execute either or both of the following to install Halmak:
 
 ![](images/choose.apps.jpg)
 
-* Now you're free to uninstall.
+* Now you're free to uninstall any single layout at a time.
 
 ![](images/uninstall.jpg)
 
-## Copyright & License
+## Microsoft Keyboard Layout Creator (MSKLC) Version 1.4
 
-Again, I'm not sure if there is a point to this. But I guess it's MIT.
+The executables were created using the Microsoft Keyboard Layout Creator (MSKLC) Version 1.4.
+
+[MSKLC - download](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+
+
+## Copyright & License
 
 Copyright (C) 2016 Nikolay Nemshilov
 
-
-
-
-## Microsoft Keyboard Layout Creator (MSKLC) Version 1.4
-This Halmak setup executable was created using the Microsoft Keyboard Layout Creator (MSKLC) Version 1.4.
-
-[MSKLC - download](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
