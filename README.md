@@ -2,6 +2,7 @@
 # The Halmak Keyboard Layouts for Windows
 
 This repository is the Windows equivalent of the original Halmak Apple Mac version:
+
 [halmak](https://github.com/MadRabbit/halmak)
 
 This repository contains 4 Halmak layouts in 2 groups.
@@ -13,7 +14,9 @@ Note - HalmakQP and HalmaQLG map to the Qwerty layout for control characters.
 This means undo (cntrl-z), cut (cntrl-x), copy (cntrl-c), and paste (cntrl-v) and the other control characters are in their original Qwerty positions on the keyboard.
 
 Regardless of the group, the lettering of the Halmak layout is the same and is as follows:
-![](images/HalmakP.jpg)
+
+![](images/halmakP.jpg)
+
 
 ### HalmakP and HalmaQP
 
@@ -22,7 +25,9 @@ This group has the Halmak layout with the parenthesis at the centre:
 - HalmaQP: features the parenthesis at the centre, and the Qwerty cntrl keys.
 
 This means with the shift key modifier the layout is as follows:
+
 ![](images/halmakPShft.jpg)
+
 
 ### HalmakLG and HalmaQLG
 
@@ -31,7 +36,9 @@ This group has the Halmak layout with the less/greater signs at the centre:
 - HalmaQLG: features the less/greater at the centre, and the Qwerty cntrl keys.
 
 This means with the shift key modifier the layout is as follows:
+
 ![](images/halmakLGShft.jpg)
+
 
 ## Download
 
@@ -41,6 +48,7 @@ Then click 'Download ZIP'.
 
 ![](images/download.jpg)
 
+
 ## Installation
 
 Execute the setup for the layouts that interest you:
@@ -48,9 +56,11 @@ Execute the setup for the layouts that interest you:
  - halmakLG/setup.exe
  - halmaQP/setup.exe
  - halmaQLG/setup.exe
+
 Install then try all the layouts to determined which is right for you.
 
 ![](images/installation.jpg)
+
 
 ## Switching between layouts
 
@@ -73,6 +83,7 @@ Install then try all the layouts to determined which is right for you.
 
 ![](images/taskbar.jpg)
 
+
 ## Uninstallation
 
 * Choose the apps and features from the application launcher.
@@ -82,6 +93,7 @@ Install then try all the layouts to determined which is right for you.
 * Now you're free to uninstall any single layout at a time.
 
 ![](images/uninstall.jpg)
+
 
 ## Microsoft Keyboard Layout Creator (MSKLC) Version 1.4
 
